@@ -1,0 +1,21 @@
+body{
+	border-style: solid;
+	border-width: 6px;
+	border-color: darkgreen;}
+h1{
+	
+	background-color : #00CED1;
+	color:darkred;
+	text-align:center;
+	line-height: 80px;
+	font-size : 60px;
+	text-shadow : 4px 3px coral;}
+h3{
+	text-decoration: underline;
+	color:darkmagenta;
+	font-size : 30px;
+	text-align:left;}
+img{      
+	float:right;
+	width:310px;
+	height:125px;}

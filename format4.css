@@ -1,0 +1,17 @@
+body{
+	background-color:cyan;}
+h1{
+	background-color : #663399;
+	color:7CFC00;
+	text-align:center;
+	line-height: 80px;
+	font-size : 60px;
+	text-shadow : 4px 3px red;}
+img{      
+	width:370px;
+	height:200px;}
+h3{
+	color:crimson;
+	text-align:center;
+	font-size : 30px;
+	text-decoration:underline;}
